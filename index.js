@@ -3,8 +3,8 @@
 
 function theBeatlesPlay(musicians,instruments){
   var array=[];
-  for(let i=0;i<arr.length;i+=1){
-    arr.push(`${musicians[i]} plays ${instruments[i]}`);
+  for(let i=0;i<array.length;i+=1){
+    array.push(`${musicians[i]} plays ${instruments[i]}`);
   }
   return array;
 }
