@@ -2,9 +2,9 @@
 
 
 function theBeatlesPlay(musicians,instruments){
-  
+  const array=[];
   for(let i=0;i<array.length;i+=1){
-  let array[0] = 'hello';
+    array[0] = 'hello';
     //array.push(`${musicians[i]} plays ${instruments[i]}`);
   }
   return array;
